@@ -1,0 +1,5 @@
+{
+     "ip":"FORTSMPmMO4.aternos.me",
+     "port":"39267",
+     "name":"FORTSMP"
+}
